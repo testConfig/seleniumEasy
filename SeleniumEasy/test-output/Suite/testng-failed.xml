@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="test.SeleniumEasy.ListenerClass.TestNgListerner"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo">
+        <methods>
+          <include name="DemoTest"/>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="log4jConfig"/>
+        </methods>
+      </class> <!-- test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

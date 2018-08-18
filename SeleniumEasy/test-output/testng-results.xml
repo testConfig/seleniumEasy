@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23239" started-at="2018-08-18T03:30:00Z" finished-at="2018-08-18T03:30:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23239" started-at="2018-08-18T03:30:00Z" finished-at="2018-08-18T03:30:23Z">
+      <class name="test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo">
+        <test-method status="PASS" signature="log4jConfig()[pri:0, instance:test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo@ff5b51f]" name="log4jConfig" is-config="true" duration-ms="70" started-at="2018-08-17T23:30:00Z" finished-at="2018-08-17T23:30:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log4jConfig -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo@ff5b51f]" name="setUp" is-config="true" duration-ms="21609" started-at="2018-08-17T23:30:00Z" depends-on-methods="test.SeleniumEasy.BaseTest.TestBase.log4jConfig" finished-at="2018-08-17T23:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DemoTest()[pri:0, instance:test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo@ff5b51f]" name="DemoTest" duration-ms="915" started-at="2018-08-17T23:30:22Z" finished-at="2018-08-17T23:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo@ff5b51f]" name="endTest" is-config="true" duration-ms="622" started-at="2018-08-17T23:30:23Z" finished-at="2018-08-17T23:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- test.SeleniumEasy.simpleFromeDemo.TC0001_singleSimplFromDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

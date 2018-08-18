@@ -1,0 +1,9 @@
+2018-08-17 23:30:00 INFO  TestBase:17 - ===== Test Set Up Start =====
+2018-08-17 23:30:00 INFO  TestBase:47 - 
+2018-08-17 23:30:14 INFO  TestBase:58 - =====ChromeBrowser is Launch=====
+2018-08-17 23:30:21 INFO  TestBase:84 - =====URL is Launch=====
+2018-08-17 23:30:21 INFO  TestBase:102 - ===== Navigation Main Bar is Clicked =====
+2018-08-17 23:30:22 INFO  TestBase:108 - ===== Navigation ManuBar is Clicked ===== 
+2018-08-17 23:30:23 INFO  TestBase:32 - ===== Booth Have Same Text =====
+2018-08-17 23:30:23 INFO  TestBase:95 - =====Browser is Close=====
+2018-08-17 23:30:23 INFO  TestBase:31 - ===== Test End =====

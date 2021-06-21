@@ -25,8 +25,6 @@ import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.BeforeTest;
 
-import excel_Connection.ExcelConnector;
-
 
 /**
  * @author Ahammed Sorif

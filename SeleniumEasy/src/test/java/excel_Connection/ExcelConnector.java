@@ -22,17 +22,8 @@ public class ExcelConnector extends TestBase{
 			 FIS = new FileInputStream(xFile);
 			 xBook = new XSSFWorkbook(FIS);
 		} catch (Exception e) {
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-			System.out.println("Frist Branch Extension");
-
+			
+			logger.warn("===== WorkBook Connection have problem =====");
 			e.getMessage();
 		}
 		

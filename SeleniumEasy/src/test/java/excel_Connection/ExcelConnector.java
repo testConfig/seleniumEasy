@@ -18,7 +18,7 @@ public class ExcelConnector extends TestBase{
 
 	public ExcelConnector(String FilePath) {
 
-		System.out.println("Second Project Main");
+		System.out.println("Second Project support");
 
 		File xFile = new File(FilePath);
 		try {

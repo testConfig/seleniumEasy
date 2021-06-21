@@ -11,14 +11,14 @@ public class DemoTests extends TestBase{
 	
 	@BeforeTest
 	private void setUp() {
-		System.out.println("Second Project Main add something");
-		System.out.println("Second Project Main");
-		System.out.println("Second Project Main");
-		System.out.println("Second Project Main");
-		System.out.println("Second Project Main add something");
+		System.out.println("Second Project support");
+		System.out.println("Second Project support");
+		System.out.println("Second Project support");
+		System.out.println("Second Project support");
+		System.out.println("Second Project support");
 
 
-		System.out.println("Second Project Main");
+		System.out.println("Second Project support");
 	}
 	
 	@Test

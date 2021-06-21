@@ -11,10 +11,10 @@ public class DemoTests extends TestBase{
 	
 	@BeforeTest
 	private void setUp() {
-		System.out.println("Frist Branch - 6th");
-		System.out.println("Frist Branch - 6th ");
-		System.out.println("Frist Branch - 6th ");
-		System.out.println("Frist Branch - 6nd ");
+		System.out.println("Frist Branch - 7th");
+		System.out.println("Frist Branch - 7th ");
+		System.out.println("Frist Branch - 7th ");
+		System.out.println("Frist Branch - 7nd ");
 		System.out.println("Frist Branch - 2nd ");
 
 

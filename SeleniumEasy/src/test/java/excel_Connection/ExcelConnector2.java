@@ -22,21 +22,14 @@ public class ExcelConnector2 extends TestBase{
 			 FIS = new FileInputStream(xFile);
 			 xBook = new XSSFWorkbook(FIS);
 		} catch (Exception e) {
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-			System.out.println("Frist Branch Extension page 2");
-
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
+			System.out.println("First Branch");
 			e.getMessage();
 		}
 		

@@ -11,9 +11,9 @@ public class DemoTests extends TestBase{
 	
 	@BeforeTest
 	private void setUp() {
-		logger.info("===== Test Set up Start =====");
-		getIt(null, null);//UtilConfig.getChrom(), UtilConfig.getHomeNavURL()
-		navManue(null, null);//NavBarConfigaration.getNevInput_Forms(), NavBarConfigaration.getSimple_Form_Demon()
+		System.out.println("Frist Branch");
+
+
 	}
 	
 	@Test

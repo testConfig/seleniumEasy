@@ -11,16 +11,14 @@ public class DemoTests extends TestBase{
 	
 	@BeforeTest
 	private void setUp() {
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-		System.out.println("First Branch");
-
-
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
+		System.out.println("First Branch Extension");
 
 	}
 	

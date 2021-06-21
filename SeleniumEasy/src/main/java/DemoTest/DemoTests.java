@@ -14,7 +14,7 @@ public class DemoTests extends TestBase{
 		System.out.println("Frist Branch - 7th");
 		System.out.println("Frist Branch - 7th ");
 		System.out.println("Frist Branch - 7th ");
-		System.out.println("Frist Branch - 7nd ");
+		System.out.println("Frist Branch - 6nd ");
 		System.out.println("Frist Branch - 2nd ");
 
 

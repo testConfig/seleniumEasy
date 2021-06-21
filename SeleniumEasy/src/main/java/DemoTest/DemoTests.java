@@ -11,17 +11,11 @@ public class DemoTests extends TestBase{
 	
 	@BeforeTest
 	private void setUp() {
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-		System.out.println("Frist Branch Extension");
-
+		System.out.println("Frist Branch - 7th");
+		System.out.println("Frist Branch - 7th ");
+		System.out.println("Frist Branch - 7th ");
+		System.out.println("Frist Branch - 6nd ");
+		System.out.println("Frist Branch - 2nd ");
 
 
 	}
@@ -34,8 +28,7 @@ public class DemoTests extends TestBase{
 	@AfterTest
 	private void endTest() {
 		closeIt();
-		System.out.println("Frist Branch Extension");
-
+		logger.info("===== Test End =====");
 	}
 	
 
